@@ -1,6 +1,6 @@
 # K-Panel
 
-K-Panel Uses Node.JS with ReactJS and MySQL for managing php based websites. This is project to create feature rich panel like c-panel with some of the basic functionality to manage website and should provide option to choose between apache/nginx with MySQL. Some of the features to include
+K-Panel Uses Node.JS with ReactJS and MySQL for managing php based websites. This project has started to create a feature rich alternative to php based panel like c-panel with some of the basic functionalities to manage the website. It provide support of nginx, php-fpm and MySQL server stack. Some of the features to include
 
   - Management of multiple domain with a url relative to home route
   - FTP connection to upload files
